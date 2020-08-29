@@ -1,0 +1,8 @@
+Server,Did SQL Query Run?,Edition,Product Version,Product Level,Curr_Version Release Date,Updates Current Within Two Months,Update Available,Last Update Release Date,Security Update Needed,New Service Pack Available,Other
+SERVER1,False
+SERVER2,True,Enterprise Edition: Core-based Licensing (64-bit),14.0.1000.169,RTM
+SERVER3,False
+SERVER4,True,Standard Edition (64-bit),14.0.3294.2,RTM
+SERVER5,False
+SERVER6,True,Standard Edition (64-bit),14.0.2027.2,RTM
+SERVER7,True,Standard Edition (64-bit),12.0.5223.6,SP2
