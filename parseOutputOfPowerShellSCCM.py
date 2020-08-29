@@ -1,4 +1,7 @@
 ''' 
+READ THIS: in the program, where it says "SSCM TEXTFILE HERE.txt" insert the name of your text 
+file, like "sccmOutput.txt". It's at the beginning of the program.
+
 program parses the output of the PowerShell script, creating a new folder (directory)
 with a CSV file containing six columns, a CSV containig twelve columns, and a text file 
 including information about the servers and their versions
@@ -96,7 +99,7 @@ def main():
         try:
             # open PowerShell script output in the directory where it is
             os.chdir(home)
-            with open('txtfileupdate4.txt', 'r') as reader:
+            with open('SSCM TEXTFILE HERE.txt', 'r') as reader:
 
                 # change back to new directory
                 os.chdir(final_directory)
