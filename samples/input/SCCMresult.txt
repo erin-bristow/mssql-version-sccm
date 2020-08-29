@@ -1,0 +1,76 @@
+SERVER1	1	0	[
+  "Did SQL Query Run? : False",
+  "Result of Query:"
+]
+SERVER2	1	0	[
+  "Did SQL Query Run? : True",
+  "Result of Query:",
+  {
+    "Result": "Enterprise Edition: Core-based Licensing (64-bit)",
+    "Query": "Edition"
+  },
+  {
+    "Result": "14.0.1000.169",
+    "Query": "Product Version"
+  },
+  {
+    "Result": "RTM",
+    "Query": "Product Level"
+  }
+]
+SERVER3	1	0	[
+  "Did SQL Query Run? : False",
+  "Result of Query:"
+]
+SERVER4	1	0	[
+  "Did SQL Query Run? : True",
+  "Result of Query:",
+  {
+    "Result": "Standard Edition (64-bit)",
+    "Query": "Edition"
+  },
+  {
+    "Result": "14.0.3294.2",
+    "Query": "Product Version"
+  },
+  {
+    "Result": "RTM",
+    "Query": "Product Level"
+  }
+]
+SERVER5	1	0	[
+  "Did SQL Query Run? : False",
+  "Result of Query:"
+]
+SERVER6	1	0	[
+  "Did SQL Query Run? : True",
+  "Result of Query:",
+  {
+    "Result": "Standard Edition (64-bit)",
+    "Query": "Edition"
+  },
+  {
+    "Result": "14.0.2027.2",
+    "Query": "Product Version"
+  },
+  {
+    "Result": "RTM",
+    "Query": "Product Level"
+  }
+]
+SERVER7	1	0	[
+  "Did SQL Query Run? : True",
+  "Result of Query:",
+  {
+    "Result": "Standard Edition (64-bit)",
+    "Query": "Edition"
+  },
+  {
+    "Result": "12.0.5223.6",
+    "Query": "Product Version"
+  },
+  {
+    "Result": "SP2",
+    "Query": "Product Level"
+  }
+]
