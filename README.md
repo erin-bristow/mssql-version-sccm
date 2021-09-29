@@ -1,4 +1,7 @@
 # mssql-version-sccm
+
+Apologies for my spaghetti code if anyone actually reads this - this was my first time writing an extensive Python program.
+
 The program parses the output of a PowerShell script asking servers for their versions, and indicates which MSSQL versions are out-of-date.
 
 In SCCM, create a new script, and paste the PowerShell script into the box. Run it on the server group you are trying to get the MSSQL versions for. It is okay if it runs on servers that do not have MSSQL installed - the Python parsing script will sort those out for you.
