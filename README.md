@@ -1,6 +1,6 @@
 # mssql-version-sccm
 
-Apologies for my spaghetti code if anyone actually reads this - this was my first time writing an extensive Python program.
+Apologies for my spaghetti code if anyone actually reads this - this was my first time writing an extensive Python program and I did not intend for it to get this long. I also wrote it within jupyter notebook instead of using an IDE and Anaconda Prompt, which was a mistake. Might clean the whole program up at some point.
 
 The program parses the output of a PowerShell script asking servers for their versions, and indicates which MSSQL versions are out-of-date.
 
